@@ -1,0 +1,5 @@
+# Conjunto de librerías usadas en el EDA
+
+pandas
+numpy
+matplotlib
