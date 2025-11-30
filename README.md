@@ -50,6 +50,8 @@ El dataset inicial se compone de 11 columnas que muestran el lugar de producció
 
 ## Conclusiones resultantes de las visualizaciones:
 
+Antes de leer estas conclusiones debo aclarar que la "calidad/precio" a la que me refiero está basada la calidad desde el punto de vista del cliente, y está basado en unas valoraciones entre el 4.2 y el 4.9, en ningún caso se considera que un producto con baja "calidad/precio" sea malo, simplemente es la preferencia del usuario en base a unas buenas opiniones:
+
 - La gran mayoría de los vinos producidos en España provienen de Ribera del Duero y La Rioja.
 
 - El grueso de la calidad/precio de los vinos se concentra entre un 45 y un 55% de satisfacción (calidad/precio).
