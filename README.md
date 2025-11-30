@@ -6,10 +6,10 @@ Se analizan un dataset con los datos de 7500 tipos de vino tinto de España reco
 
 **Problemas a resolver**
 
-- Identificar vinos con mejor calidad/precio
-- Factores que influyen más en la percepción de calidad y precio por parte de los clientes
+- Resolver la calidad/precio para cada vino
+- Averiguar qué factores influyen más en la percepción de calidad y precio por parte de los clientes
+- Ver la distribución de precios en España
 - Identificar las regiones de España con mejor valoración de vinos
-- Segmentar clientes según preferencias y hábitos de compra para campañas de marketing
 
 **Pasos seguidos en la limpieza de datos**
 
